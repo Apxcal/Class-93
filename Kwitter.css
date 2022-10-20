@@ -1,0 +1,14 @@
+body{
+    background-color:skyblue;
+}
+
+button{
+    background-color:limegreen;
+    border-radius:20px;
+}
+
+.divlogin{
+    background-color:white;
+    padding: 10px;
+    border-radius: 15px;
+}
